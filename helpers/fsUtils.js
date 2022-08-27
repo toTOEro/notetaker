@@ -1,6 +1,5 @@
 // fsUtils code taken from module 11 28-Stu_Mini_Project
 
-
 const fs = require('fs');
 const util = require('util');
 
