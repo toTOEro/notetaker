@@ -2,6 +2,11 @@
     {
         "title": "Test Title",
         "text": "Test text",
-        "UID": "123456"
+        "id": "123456"
+    },
+    {
+        "title": "Title",
+        "text": "Note",
+        "id": "27f4644c-69a8-4a00-b1bf-6e643acf3a00"
     }
 ]
